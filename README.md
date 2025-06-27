@@ -61,7 +61,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishi-sharma22&show_icons=true&theme=dracula" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%" />
 </p>
 
@@ -73,13 +73,4 @@
   <a href="nishi200714sharma.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nishi-sharma14"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
----
-
-### 💡 Fun Fact
-
-> I'm from Muzaffarnagar, UP 🇮🇳 — and I love building projects that blend creativity with code.
-
----
-
 
