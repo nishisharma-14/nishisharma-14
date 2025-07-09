@@ -25,7 +25,7 @@
 - 🌐 **Frontend Web Development** – improving HTML, CSS, and JS skills
 ---
 
-### 🛠️ Tech Stacks
+### 🛠️ Tech Stack
 
 <p align="center">
   <!-- Frontend -->
