@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  <img src="https://komarev.com/ghpvc/?username=nishi-sharma22&label=Profile%20views&color=0e75b6&style=flat" alt="nishi-sharma22" /> 
+  <img src="https://komarev.com/ghpvc/?username=nishi-sharma22&label=Profile%20views&color=0e75b6&style=flat" alt="nishisharma-14" /> 
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishi-sharma22&show_icons=true&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishisharma-14&show_icons=true&theme=dracula" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%" />
 </p>
 
