@@ -59,11 +59,11 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishisharma-14&show_icons=true&theme=dracula" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishisharma-14&theme=radical" width="48%" />
 </p>
+
 
 ---
 
