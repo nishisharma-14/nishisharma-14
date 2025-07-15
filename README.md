@@ -52,7 +52,7 @@
 ### 🌟 Featured Projects
 
 =- 🍽️ **Dish Delight** – Restaurant website with rotating dish animation  
-- ⚡ **Transmission Line Fault Detector** – Flame & temp sensors + relay simulation  
+- ⚡ **Transmission Line Fault Detector** – Flame & temp sensors + relay simulation 
 - 📊 **Excel & Tableau Dashboards** – Data-driven MOOC projects
 - 🛍️ Amazon Clone Project- A responsive Amazon-inspired e-commerce UI built with HTML, CSS, and JS.
 
