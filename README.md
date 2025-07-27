@@ -19,7 +19,7 @@
 
 ---
 
-### 🚧 Currently Learning.....
+### 🚧 Currently Learning!!
 
 - 🧠 **C++ with DSA** – mastering arrays, stacks, linked lists, and more!
 - 🌐 **Frontend Web Development** – improving HTML, CSS, and JS skills
