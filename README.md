@@ -15,7 +15,7 @@
 - 🛠️ I love building **tech projects** that blend software + real-world use
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, C++, MySQL**
 - 📫 Reach me at: **[nishi200714sharma@gmail.com]**
-- 🌐 Portfolio: Coming soon!!
+- 🌐 Portfolio: Coming soon!
 
 ---
 
