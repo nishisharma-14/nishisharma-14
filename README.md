@@ -8,7 +8,7 @@
  
 ---
 
-### 📌 About Me!!!
+### 📌 About Me!!
 
 - 🎓 First-year **B.Tech CSE student at LPU**
 - 🛠️ I love building **tech projects** that blend software + real-world use
